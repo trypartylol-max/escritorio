@@ -8,7 +8,7 @@ const SECTIONS = ['Apps', 'Forms', 'Dinero'];
 const BUILTIN = [
   { s: 'Apps', n: 'Torre de Control', i: '🗼', c: '#1f1b2b', u: 'https://trypartylol-max.github.io/shaah/control/' },
   { s: 'Apps', n: 'SHAAH local', i: '⌂', c: '#16202a', u: 'http://localhost:8080/' },
-  { s: 'Forms', n: 'Event Scorecard', i: '🎪', c: '#2a2418', u: 'https://trypartylol-max.github.io/shaah/scorecard/' },
+  { s: 'Forms', n: 'Event Scorecard', i: '🎪', c: '#2a2418', u: 'https://trypartylol-max.github.io/scorecard/' },
   { s: 'Dinero', n: 'Caja', i: '₪', c: '#142a22', u: PRIV + '?p=caja' },
   { s: 'Dinero', n: 'Libro Mayor', i: '📒', c: '#2a2618', u: PRIV + '?p=libro' },
   { s: 'Apps', n: 'Cocina', i: '🍳', c: '#2a1f14', u: 'https://trypartylol-max.github.io/cocina/' },
